@@ -28,7 +28,7 @@ http://127.0.0.1:4173/
 正式手机入口使用 GitHub Pages：
 
 ```text
-https://<GitHub用户名>.github.io/english-review-cards/
+https://frank0cea.github.io/english-review-cards/
 ```
 
 发布后，用 iPhone Safari 打开上面的 HTTPS 链接，等待页面正常显示卡片数据，再通过 Safari 的“分享”菜单添加到主屏幕。之后从主屏幕图标打开时，页面会使用 Service Worker 缓存，不再依赖电脑本机服务；电脑关机后，手机仍可通过线上链接或已缓存内容运行。

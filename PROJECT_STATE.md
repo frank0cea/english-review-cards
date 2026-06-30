@@ -20,7 +20,7 @@
 
 - 计划仓库名：`english-review-cards`。
 - 发布目录：只发布 `memory-cards/` 目录内容，作为仓库根目录。
-- 正式手机入口模板：`https://<GitHub用户名>.github.io/english-review-cards/`。
+- 正式手机入口：`https://frank0cea.github.io/english-review-cards/`。
 - 已新增 `apple-touch-icon.png`、`icon-192.png`、`icon-512.png`。
 - `manifest.webmanifest` 已声明 PNG 图标。
 - `index.html` 已改用 PNG `apple-touch-icon`。
