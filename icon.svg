@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="英文复习卡片图标">
+  <rect width="512" height="512" rx="96" fill="#f6f0e6"/>
+  <path d="M128 92h214c28 0 50 22 50 50v250c0 28-22 50-50 50H128c-28 0-50-22-50-50V142c0-28 22-50 50-50Z" fill="#fffaf1" stroke="#176d63" stroke-width="18"/>
+  <path d="M142 164h170M142 218h228M142 272h196" stroke="#24231f" stroke-width="24" stroke-linecap="round"/>
+  <path d="M142 342h82" stroke="#c18b18" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="357" cy="347" r="36" fill="#176d63"/>
+  <path d="m340 347 12 13 24-29" fill="none" stroke="#fffaf1" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

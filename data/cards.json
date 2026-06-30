@@ -1,0 +1,2000 @@
+{
+  "generatedAt": "2026-06-30T04:56:02.041Z",
+  "sourceFile": "前四题和雨课堂全部_中英对照.md",
+  "summary": {
+    "total": 63,
+    "rewrite": 23,
+    "correction": 10,
+    "quiz": 30
+  },
+  "cards": [
+    {
+      "id": "ex1-q1",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 1,
+      "title": "Exercise 1.1",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "He was frustrated with life. He tried to commit suicide.",
+        "zh": "他对生活感到沮丧。他试图自杀。"
+      },
+      "answer": {
+        "en": "Frustrated with life, he tried to commit suicide.",
+        "zh": "由于对生活感到沮丧，他试图自杀。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex1-q2",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 2,
+      "title": "Exercise 1.2",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "She works hard. She wants to pass the test.",
+        "zh": "她努力学习。她想通过考试。"
+      },
+      "answer": {
+        "en": "She works hard to pass the test.",
+        "zh": "她努力学习以通过考试。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex1-q3",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 3,
+      "title": "Exercise 1.3",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "I saw the fox. It was chasing a rabbit.",
+        "zh": "我看见了那只狐狸。它正在追一只兔子。"
+      },
+      "answer": {
+        "en": "I saw the fox chasing a rabbit.",
+        "zh": "我看见那只狐狸正在追一只兔子。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex1-q4",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 4,
+      "title": "Exercise 1.4",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "The workers finished their work. They left for home.",
+        "zh": "工人们完成了工作。他们回家了。"
+      },
+      "answer": {
+        "en": "Having finished their work, the workers left for home.",
+        "zh": "完成工作后，工人们回家了。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex1-q5",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 5,
+      "title": "Exercise 1.5",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "My father was outside. My father was beneath the window. My father whistled for Reggie, our English setter.",
+        "zh": "我父亲在外面。他在窗下。他吹口哨叫 Reggie，我们的英国塞特犬。"
+      },
+      "answer": {
+        "en": "Outside beneath my window, my father whistled for Reggie, our English setter.",
+        "zh": "在我窗外下方，父亲吹口哨叫 Reggie，我们的英国塞特犬。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex1-q6",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 6,
+      "title": "Exercise 1.6",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "We arrived at a small group of peasant houses. The houses had dried-mud walls. The houses had straw mats.",
+        "zh": "我们到达一小片农舍。这些房子有干泥墙和草席/草顶。"
+      },
+      "answer": {
+        "en": "We arrived at a small group of peasant houses, with dried-mud walls and straw roofs.",
+        "zh": "我们到达一小片农舍，房子有干泥墙和草顶。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex1-q7",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 1",
+      "number": 7,
+      "title": "Exercise 1.7",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "In 1857 an Act was passed. It cut down the average of duty to twenty percent.",
+        "zh": "1857 年通过了一项法案。它把平均税率降到了 20%。"
+      },
+      "answer": {
+        "en": "In 1857, an Act was passed, cutting down the average of duty to twenty percent.",
+        "zh": "1857 年通过了一项法案，将平均税率降到了 20%。"
+      },
+      "alternatives": [
+        {
+          "en": "The average of duty was cut down to twenty percent by an Act passed in 1857.",
+          "zh": "平均税率被 1857 年通过的一项法案降到了 20%。"
+        }
+      ],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 1"
+      ]
+    },
+    {
+      "id": "ex2-q1",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 1,
+      "title": "Exercise 2.1",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "I missed the bus by a second. There would not be another for an hour.",
+        "zh": "我差一秒错过了公交。接下来一个小时都不会再有车。"
+      },
+      "answer": {
+        "en": "I missed the bus by a second; there would not be another for an hour.",
+        "zh": "我差一秒错过了公交；接下来一个小时都不会再有车。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q2",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 2,
+      "title": "Exercise 2.2",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Margaret earned an \"A\" on her term paper. She was exempt from the final exam.",
+        "zh": "Margaret 的学期论文得了 A。她免除了期末考试。"
+      },
+      "answer": {
+        "en": "Margaret earned an \"A\" on her term paper; consequently, she was exempt from the final exam.",
+        "zh": "Margaret 的学期论文得了 A；因此，她免除了期末考试。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q3",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 3,
+      "title": "Exercise 2.3",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Rudy had never read Hamlet. Rufus had never read Hamlet.",
+        "zh": "Rudy 从未读过《哈姆雷特》。Rufus 也从未读过《哈姆雷特》。"
+      },
+      "answer": {
+        "en": "Rudy had never read Hamlet, nor had Rufus ever read Hamlet.",
+        "zh": "Rudy 从未读过《哈姆雷特》，Rufus 也从未读过。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q4",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 4,
+      "title": "Exercise 2.4",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Neon, argon, and helium are called inert gases. They are never found in stable chemical compounds.",
+        "zh": "氖、氩和氦被称为惰性气体。它们从不出现在稳定的化合物中。"
+      },
+      "answer": {
+        "en": "Neon, argon, and helium are called inert gases, and they are never found in stable chemical compounds.",
+        "zh": "氖、氩和氦被称为惰性气体，并且它们从不出现在稳定的化合物中。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q5",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 5,
+      "title": "Exercise 2.5",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Ponce de Leon was successful because he was the first European to discover Florida. He did not succeed in finding the fountain of youth he was searching for.",
+        "zh": "Ponce de Leon 是成功的，因为他是第一个发现佛罗里达的欧洲人。但他没有成功找到他寻找的青春泉。"
+      },
+      "answer": {
+        "en": "Ponce de Leon was successful because he was the first European to discover Florida; however, he did not succeed in finding the fountain of youth he was searching for.",
+        "zh": "Ponce de Leon 是成功的，因为他是第一个发现佛罗里达的欧洲人；然而，他没有找到他一直寻找的青春泉。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q6",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 6,
+      "title": "Exercise 2.6",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "The Grand Canyon is an incredible sight. It was formed less than ten million years ago.",
+        "zh": "大峡谷是令人惊叹的景观。它形成于不到一千万年前。"
+      },
+      "answer": {
+        "en": "The Grand Canyon is an incredible sight; it was formed less than ten million years ago.",
+        "zh": "大峡谷是令人惊叹的景观；它形成于不到一千万年前。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q7",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 7,
+      "title": "Exercise 2.7",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "The dancer was not tall. The dancer was not slender. The dancer was extremely elegant.",
+        "zh": "这位舞者不高。她也不苗条。她非常优雅。"
+      },
+      "answer": {
+        "en": "The dancer was not tall or slender, but she was extremely elegant.",
+        "zh": "这位舞者既不高也不苗条，但她非常优雅。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex2-q8",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 2",
+      "number": 8,
+      "title": "Exercise 2.8",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "I drove to the park. I walked to the beach.",
+        "zh": "我开车去了公园。我步行去了海滩。"
+      },
+      "answer": {
+        "en": "I drove to the park, and then I walked to the beach.",
+        "zh": "我开车去了公园，然后步行去了海滩。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 2"
+      ]
+    },
+    {
+      "id": "ex3-q1",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 1,
+      "title": "Exercise 3.1",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "A frog had seen an ox. She wanted to make herself as big as he. She attempted it. She burst asunder.",
+        "zh": "一只青蛙见过一头牛。她想让自己变得和牛一样大。她尝试这样做。结果她胀破了。"
+      },
+      "answer": {
+        "en": "A frog that had seen an ox, and wanted to make herself as big as he, burst asunder when she attempted it.",
+        "zh": "一只见过牛、想让自己变得和牛一样大的青蛙，在尝试时胀破了。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q2",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 2,
+      "title": "Exercise 3.2",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Peter, a Russian composer, lived from 1840 to 1893. He composed Peter and the Wolf.",
+        "zh": "Peter 是一位俄罗斯作曲家，生于 1840 年，卒于 1893 年。他创作了《彼得与狼》。"
+      },
+      "answer": {
+        "en": "Peter, a Russian composer who lived from 1840 to 1893, composed Peter and the Wolf.",
+        "zh": "Peter 是一位生活于 1840 至 1893 年间的俄罗斯作曲家，他创作了《彼得与狼》。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q3",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 3,
+      "title": "Exercise 3.3",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Peter and the Wolf is often performed for audiences of children. The composition uses different instruments to represent different characters.",
+        "zh": "《彼得与狼》经常为儿童观众演出。这部作品用不同乐器代表不同角色。"
+      },
+      "answer": {
+        "en": "Peter and the Wolf, which uses different instruments to represent different characters, is often performed for audiences of children.",
+        "zh": "《彼得与狼》用不同乐器代表不同角色，经常为儿童观众演出。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q4",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 4,
+      "title": "Exercise 3.4",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "In the center of the room stood a large table. The table was covered with the cleanest tablecloth I had ever seen.",
+        "zh": "房间中央放着一张大桌子。桌上铺着我见过的最干净的桌布。"
+      },
+      "answer": {
+        "en": "In the center of the room stood a large table covered with the cleanest tablecloth I had ever seen.",
+        "zh": "房间中央放着一张大桌子，上面铺着我见过的最干净的桌布。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q5",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 5,
+      "title": "Exercise 3.5",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Joe got on the train at Union Station. He said goodbye to his family and friends at the same time.",
+        "zh": "Joe 在联合车站上了火车。他同时向家人和朋友道别。"
+      },
+      "answer": {
+        "en": "Joe said goodbye to his family and friends as he got on the train at Union Station.",
+        "zh": "Joe 在联合车站上火车时向家人和朋友道别。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q6",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 6,
+      "title": "Exercise 3.6",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "The food is good. I didn't like the cake.",
+        "zh": "食物很好。我不喜欢蛋糕。"
+      },
+      "answer": {
+        "en": "The food is good except for the cake, which I didn't like.",
+        "zh": "除了我不喜欢的蛋糕外，食物都很好。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q7",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 7,
+      "title": "Exercise 3.7",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "These people had the least to give. They often gave the most.",
+        "zh": "这些人拥有最少可以给予的东西。他们却常常给予最多。"
+      },
+      "answer": {
+        "en": "The people who had the least to give often gave the most.",
+        "zh": "那些拥有最少可给予之物的人，常常给予最多。"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex3-q8",
+      "type": "rewrite",
+      "source": "课后题",
+      "section": "Exercise 3",
+      "number": 8,
+      "title": "Exercise 3.8",
+      "promptKind": "组合句子",
+      "original": {
+        "en": "Those people encourage students to work on their own and think for themselves. They are good teachers.",
+        "zh": "那些人鼓励学生独立学习并独立思考。他们是好老师。"
+      },
+      "answer": {
+        "en": "Those people who encourage students to work on their own and think for themselves are good teachers.",
+        "zh": "那些鼓励学生独立学习并独立思考的人是好老师。 ---"
+      },
+      "alternatives": [],
+      "tags": [
+        "课后题",
+        "组合句子",
+        "Exercise 3"
+      ]
+    },
+    {
+      "id": "ex4-q1",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 1,
+      "title": "Exercise 4.1",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "He nearly lost ten dollars last night.",
+        "zh": "他昨晚差点丢了十美元。"
+      },
+      "answer": {
+        "en": "He lost nearly ten dollars last night.",
+        "zh": "他昨晚丢了将近十美元。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q2",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 2,
+      "title": "Exercise 4.2",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "The monkeys attract visitors with sheer stone faces.",
+        "zh": "这些猴子用陡峭的石脸吸引游客。"
+      },
+      "answer": {
+        "en": "The monkeys with sheer stone faces attract visitors.",
+        "zh": "那些有陡峭石面特征的猴子吸引了游客。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q3",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 3,
+      "title": "Exercise 4.3",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "Most slow readers could read much faster and better if they would not glance back over lines they have passed and move their lips when they read.",
+        "zh": "大多数慢速读者如果不回看已经读过的行，并且不在阅读时动嘴唇，就能读得更快更好。"
+      },
+      "answer": {
+        "en": "Most slow readers could read much faster and better if they would not glance back over lines they have passed and would not move their lips when they read.",
+        "zh": "大多数慢速读者如果不回看已经读过的行，并且阅读时不动嘴唇，就能读得更快更好。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q4",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 4,
+      "title": "Exercise 4.4",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "When he went by the dog pound, they rushed to the fence and barked at him.",
+        "zh": "当他经过狗收容所时，他们冲到围栏边朝他叫。"
+      },
+      "answer": {
+        "en": "When he went by the dog pound, the dogs rushed to the fence and barked at him.",
+        "zh": "当他经过狗收容所时，狗冲到围栏边朝他叫。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q5",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 5,
+      "title": "Exercise 4.5",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "While traveling through Asia, we visited Japan and discovered that they are like Americans in many respects.",
+        "zh": "在亚洲旅行时，我们参观了日本，并发现他们在许多方面像美国人。"
+      },
+      "answer": {
+        "en": "While traveling through Asia, we visited Japan and discovered that the Japanese are like Americans in many respects.",
+        "zh": "在亚洲旅行时，我们参观了日本，并发现日本人在许多方面像美国人。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q6",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 6,
+      "title": "Exercise 4.6",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "I wished I had brought my raincoat, for it had become colder and I needed it.",
+        "zh": "我希望我带了雨衣，因为天气变冷了，我需要它。"
+      },
+      "answer": {
+        "en": "When the weather became colder, I needed a raincoat and wished I had brought it.",
+        "zh": "当天气变冷时，我需要雨衣，并希望自己带了雨衣。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q7",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 7,
+      "title": "Exercise 4.7",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "After I finally discovered the tools, the dismantling of the engine was begun.",
+        "zh": "在我终于找到工具之后，发动机的拆卸开始了。"
+      },
+      "answer": {
+        "en": "After I finally discovered the tools, I dismantled the engine.",
+        "zh": "在我终于找到工具之后，我拆卸了发动机。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q8",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 8,
+      "title": "Exercise 4.8",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "He returned to the office as soon as his lunch had been eaten.",
+        "zh": "他的午饭一被吃完，他就回到办公室。"
+      },
+      "answer": {
+        "en": "He returned to the office as soon as he had eaten his lunch.",
+        "zh": "他一吃完午饭就回到办公室。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q9",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 9,
+      "title": "Exercise 4.9",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "Mary won the first prize, while her brother was awarded the second.",
+        "zh": "Mary 获得了一等奖，而她的哥哥/弟弟被授予二等奖。"
+      },
+      "answer": {
+        "en": "Mary won the first prize, while her brother got the second.",
+        "zh": "Mary 获得了一等奖，而她的哥哥/弟弟获得了二等奖。"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "ex4-q10",
+      "type": "correction",
+      "source": "课后题",
+      "section": "Exercise 4",
+      "number": 10,
+      "title": "Exercise 4.10",
+      "promptKind": "判断正误",
+      "original": {
+        "en": "Baley crossed the goal line, and the winning touchdown was scored.",
+        "zh": "Baley 越过了球门线，制胜达阵被得分。"
+      },
+      "answer": {
+        "en": "Baley crossed the goal line and scored the winning touchdown.",
+        "zh": "Baley 越过球门线，完成了制胜达阵。 ---"
+      },
+      "tags": [
+        "课后题",
+        "判断正误",
+        "Exercise 4"
+      ]
+    },
+    {
+      "id": "yt1-q1",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂1",
+      "setTitle": "请选择正确答案（每题2分，共10分）",
+      "number": 1,
+      "title": "雨课堂1.1",
+      "promptKind": "选项判断",
+      "question": "Which of the following is NOT a SENTENCE?",
+      "questionZh": "下列哪一项不是一个完整句子？",
+      "context": null,
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "If Kim takes too long saying good-bye to her boy-friend.",
+          "zh": "如果 Kim 花太长时间和她的男朋友道别。"
+        },
+        {
+          "label": "B",
+          "text": "The street faded into a country road with straggling houses by it.",
+          "zh": "这条街渐渐变成一条乡间道路，路旁零散地分布着房屋。"
+        },
+        {
+          "label": "C",
+          "text": "He is apt to introduce new ideas into the business.",
+          "zh": "他倾向于把新想法引入这项业务。"
+        },
+        {
+          "label": "D",
+          "text": "What do you know of this theater company?",
+          "zh": "你对这家剧团了解多少？"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂1"
+      ]
+    },
+    {
+      "id": "yt1-q2",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂1",
+      "setTitle": "请选择正确答案（每题2分，共10分）",
+      "number": 2,
+      "title": "雨课堂1.2",
+      "promptKind": "选项判断",
+      "question": "Which of the following is CORRECT?",
+      "questionZh": "下列哪一项是正确的？",
+      "context": null,
+      "answer": "D",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ella walking all over the neighborhood yesterday. Trying to find the dog.",
+          "zh": "Ella 昨天在整个社区到处走。试图寻找那只狗。"
+        },
+        {
+          "label": "B",
+          "text": "It being the day before our wedding anniversary.",
+          "zh": "那是我们结婚纪念日的前一天。"
+        },
+        {
+          "label": "C",
+          "text": "Bob is taking a night course in auto mechanics. Also, one in plumbing.",
+          "zh": "Bob 正在上一门汽车修理夜校课程。另外，还上一门管道维修课程。"
+        },
+        {
+          "label": "D",
+          "text": "While she spoke, the tears were running down.",
+          "zh": "她说话时，眼泪流了下来。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂1"
+      ]
+    },
+    {
+      "id": "yt1-q3",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂1",
+      "setTitle": "请选择正确答案（每题2分，共10分）",
+      "number": 3,
+      "title": "雨课堂1.3",
+      "promptKind": "选项判断",
+      "question": "Which of the following CONTAINS a FRAGMENT?",
+      "questionZh": "下列哪一项包含句子片段？",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "My love's like a red, red rose.",
+          "zh": "我的爱像一朵红红的玫瑰。"
+        },
+        {
+          "label": "B",
+          "text": "Give examples of the formal words and expressions in the passage.",
+          "zh": "举出文中正式词语和表达的例子。"
+        },
+        {
+          "label": "C",
+          "text": "I like all kinds of fresh pizza. But refuse to eat frozen pizza.",
+          "zh": "我喜欢各种新鲜披萨。但拒绝吃冷冻披萨。"
+        },
+        {
+          "label": "D",
+          "text": "To break the ice, Ted spoke of his interest in mountain climbing.",
+          "zh": "为了打破僵局，Ted 谈起了他对登山的兴趣。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂1"
+      ]
+    },
+    {
+      "id": "yt1-q4",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂1",
+      "setTitle": "请选择正确答案（每题2分，共10分）",
+      "number": 4,
+      "title": "雨课堂1.4",
+      "promptKind": "选项判断",
+      "question": "Which of the following is CORRECT?",
+      "questionZh": "下列哪一项是正确的？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "The library just closed, I couldn't get any of the reserved books.",
+          "zh": "图书馆刚刚关门，我没能拿到任何预订的书。"
+        },
+        {
+          "label": "B",
+          "text": "If winter comes, can spring be far behind?",
+          "zh": "如果冬天来了，春天还会远吗？"
+        },
+        {
+          "label": "C",
+          "text": "I drive she walks.",
+          "zh": "我开车，她走路。"
+        },
+        {
+          "label": "D",
+          "text": "I decided to leave the school an hour early, I had a pounding headache.",
+          "zh": "我决定提前一小时离校，我头痛得厉害。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂1"
+      ]
+    },
+    {
+      "id": "yt1-q5",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂1",
+      "setTitle": "请选择正确答案（每题2分，共10分）",
+      "number": 5,
+      "title": "雨课堂1.5",
+      "promptKind": "选项判断",
+      "question": "Which of the following is CORRECT?",
+      "questionZh": "下列哪一项是正确的？",
+      "context": null,
+      "answer": "D",
+      "options": [
+        {
+          "label": "A",
+          "text": "To capture environmental conditions and market accessibility.",
+          "zh": "为了捕捉环境条件和市场可达性。"
+        },
+        {
+          "label": "B",
+          "text": "Electronic devices keep getting smaller. Such as video cameras and cell phones.",
+          "zh": "电子设备变得越来越小。例如摄像机和手机。"
+        },
+        {
+          "label": "C",
+          "text": "The lady whose mother was a famous actress playing the violin fairly well.",
+          "zh": "那位母亲是著名女演员的女士小提琴拉得相当好。"
+        },
+        {
+          "label": "D",
+          "text": "Einstein was a fair amateur violinist, a great mathematician, and a deeply philosophical man. ---",
+          "zh": "爱因斯坦是一位不错的业余小提琴家、一位伟大的数学家，也是一位具有深刻哲学思想的人。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂1"
+      ]
+    },
+    {
+      "id": "yt2-q1",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂2",
+      "setTitle": "Types of Sentences",
+      "number": 1,
+      "title": "雨课堂2.1",
+      "promptKind": "选项判断",
+      "question": "Which of the following is a declarative sentence?",
+      "questionZh": "下列哪一项是陈述句？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Please hand in your homework on Monday.",
+          "zh": "请在周一交作业。"
+        },
+        {
+          "label": "B",
+          "text": "A sudden fit of rage caught him.",
+          "zh": "他突然怒不可遏。"
+        },
+        {
+          "label": "C",
+          "text": "What is the best way to catch a squirrel?",
+          "zh": "抓松鼠的最佳方法是什么？"
+        },
+        {
+          "label": "D",
+          "text": "What a fine day it is!",
+          "zh": "多么美好的一天啊！"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂2"
+      ]
+    },
+    {
+      "id": "yt2-q2",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂2",
+      "setTitle": "Types of Sentences",
+      "number": 2,
+      "title": "雨课堂2.2",
+      "promptKind": "选项判断",
+      "question": "Which of the following is a complex sentence?",
+      "questionZh": "下列哪一项是复合句？",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "He thought the painting was of little value, so he let me have it for only ten pounds.",
+          "zh": "他认为这幅画没什么价值，所以只要十英镑就让我买下了它。"
+        },
+        {
+          "label": "B",
+          "text": "When they were on holiday, their house was broken into, and some valuable paintings were stolen.",
+          "zh": "当他们度假时，他们的房子被闯入，一些珍贵画作被偷走了。"
+        },
+        {
+          "label": "C",
+          "text": "Although it began to rain, the children went on playing outdoors.",
+          "zh": "尽管开始下雨，孩子们仍继续在户外玩。"
+        },
+        {
+          "label": "D",
+          "text": "Last night was a wild night, with the thunder roaring, the wind blowing a gale and rain falling in torrents.",
+          "zh": "昨晚天气狂暴，雷声隆隆，大风呼啸，暴雨倾盆。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂2"
+      ]
+    },
+    {
+      "id": "yt2-q3",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂2",
+      "setTitle": "Types of Sentences",
+      "number": 3,
+      "title": "雨课堂2.3",
+      "promptKind": "选项判断",
+      "question": "Which of the following is a periodic sentence?",
+      "questionZh": "下列哪一项是圆周句？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "We came to our journey's end, after much fatigue, through deep roads and bad weather.",
+          "zh": "经过深路和恶劣天气，又经历了极度疲惫之后，我们到达了旅途终点。"
+        },
+        {
+          "label": "B",
+          "text": "Badly frightened by the explosion, the boy rushed out of the laboratory.",
+          "zh": "被爆炸吓坏后，男孩冲出了实验室。"
+        },
+        {
+          "label": "C",
+          "text": "A mother takes twenty years to make a man of her boy, and another woman takes twenty minutes to make a fool of him.",
+          "zh": "一个母亲要花二十年把儿子培养成男人，而另一个女人只需二十分钟就能把他变成傻瓜。"
+        },
+        {
+          "label": "D",
+          "text": "The young physician starts life with 20 drugs for each disease, and the old physician ends life with one drug for 20 disease.",
+          "zh": "年轻医生刚开始行医时，每种病用二十种药；老医生到最后，二十种病只用一种药。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂2"
+      ]
+    },
+    {
+      "id": "yt2-q4",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂2",
+      "setTitle": "Types of Sentences",
+      "number": 4,
+      "title": "雨课堂2.4",
+      "promptKind": "选项判断",
+      "question": "If we combine the pair of the sentences “The new workers are young and inexperienced. They are eager to learn from the veteran workers.” to make a simple sentence, it should be:",
+      "questionZh": "如果把 “The new workers are young and inexperienced. They are eager to learn from the veteran workers.” 这两句合并成一个简单句，应该是：",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "The new workers who are young and inexperienced. They are eager to learn from the veteran workers.",
+          "zh": "那些年轻且缺乏经验的新工人。他们渴望向老工人学习。"
+        },
+        {
+          "label": "B",
+          "text": "Although the new workers are young and inexperienced, they are eager to learn from the veteran workers.",
+          "zh": "尽管新工人年轻且缺乏经验，但他们渴望向老工人学习。"
+        },
+        {
+          "label": "C",
+          "text": "Young and inexperienced, the new workers are eager to learn from the veteran workers.",
+          "zh": "新工人虽然年轻且缺乏经验，却渴望向老工人学习。"
+        },
+        {
+          "label": "D",
+          "text": "The new workers are young and inexperienced, and they are eager to learn from the veteran workers.",
+          "zh": "新工人年轻且缺乏经验，并且他们渴望向老工人学习。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂2"
+      ]
+    },
+    {
+      "id": "yt2-q5",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂2",
+      "setTitle": "Types of Sentences",
+      "number": 5,
+      "title": "雨课堂2.5",
+      "promptKind": "选项判断",
+      "question": "If we combine the pair of the sentences “Napoleon was born in Corsica in 1769. At that time the island had just been acquired by France.” To make a complex sentence, it should be:",
+      "questionZh": "如果把 “Napoleon was born in Corsica in 1769. At that time the island had just been acquired by France.” 这两句合并成一个复合句，应该是：",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Napoleon was born in Corsica in 1769, and at that time the island had just been acquired by France.",
+          "zh": "拿破仑于 1769 年出生在科西嘉，当时该岛刚刚被法国获得。"
+        },
+        {
+          "label": "B",
+          "text": "Napoleon was born in Corsica in 1769 when the island had just been acquired by France.",
+          "zh": "拿破仑于 1769 年出生在科西嘉，当时该岛刚刚被法国获得。"
+        },
+        {
+          "label": "C",
+          "text": "Napoleon was born in Corsica in 1769, at that time the island had just been acquired by France.",
+          "zh": "拿破仑于 1769 年出生在科西嘉，那时该岛刚刚被法国获得。"
+        },
+        {
+          "label": "D",
+          "text": "Napoleon was born in Corsica in 1769; at that time the island had just been acquired by France. ---",
+          "zh": "拿破仑于 1769 年出生在科西嘉；当时该岛刚刚被法国获得。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂2"
+      ]
+    },
+    {
+      "id": "yt3-q1",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂3",
+      "setTitle": "Unit 1 Effective Sentences",
+      "number": 1,
+      "title": "雨课堂3.1",
+      "promptKind": "选项判断",
+      "question": "Which of the following is NOT FAULTY?",
+      "questionZh": "下列哪一项没有语病？",
+      "context": null,
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Standing on top of the high building, you can see the whole city.",
+          "zh": "站在高楼顶部，你可以看见整座城市。"
+        },
+        {
+          "label": "B",
+          "text": "Taking the exam, the room was so stuffy that Alan almost fainted.",
+          "zh": "考试时，房间非常闷热，Alan 差点晕倒。"
+        },
+        {
+          "label": "C",
+          "text": "Munching leaves from a tall tree, the children were fascinated by the giraffe.",
+          "zh": "嚼着高树上的叶子时，孩子们被长颈鹿迷住了。"
+        },
+        {
+          "label": "D",
+          "text": "If interested in painting, a course can be taken at the evening school.",
+          "zh": "如果对绘画感兴趣，可以在夜校选一门课程。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂3"
+      ]
+    },
+    {
+      "id": "yt3-q2",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂3",
+      "setTitle": "Unit 1 Effective Sentences",
+      "number": 2,
+      "title": "雨课堂3.2",
+      "promptKind": "选项判断",
+      "question": "Which of the following is NOT FAULTY?",
+      "questionZh": "下列哪一项没有语病？",
+      "context": null,
+      "answer": "D",
+      "options": [
+        {
+          "label": "A",
+          "text": "The toaster was sold to us by a charming salesman with a money-back guarantee.",
+          "zh": "一个迷人的推销员把带退款保证的烤面包机卖给了我们。"
+        },
+        {
+          "label": "B",
+          "text": "George couldn't drive to work in his small sports car with a broken leg.",
+          "zh": "George 腿断了，不能开着他的小跑车去上班。"
+        },
+        {
+          "label": "C",
+          "text": "The people on the bus stared at the ceiling or read newspapers with tired faces.",
+          "zh": "公交车上的人疲惫地盯着天花板或看报纸。"
+        },
+        {
+          "label": "D",
+          "text": "At the college, the speaker discussed the problem of crowded prisons.",
+          "zh": "在学院里，演讲者讨论了监狱拥挤的问题。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂3"
+      ]
+    },
+    {
+      "id": "yt3-q3",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂3",
+      "setTitle": "Unit 1 Effective Sentences",
+      "number": 3,
+      "title": "雨课堂3.3",
+      "promptKind": "选项判断",
+      "question": "Which of the following is NOT FAULTY?",
+      "questionZh": "下列哪一项没有语病？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Mary is really a shy person, but she keeps it hidden.",
+          "zh": "Mary 其实很害羞，但她把这一点藏了起来。"
+        },
+        {
+          "label": "B",
+          "text": "When someone has a cold, he should take extra vitamin C and drink a lot of fluids.",
+          "zh": "当某人感冒时，他应该额外补充维生素 C，并大量饮水。"
+        },
+        {
+          "label": "C",
+          "text": "Susan's mother wondered if she was tall enough to be a model.",
+          "zh": "Susan 的母亲想知道她是否足够高，可以当模特。"
+        },
+        {
+          "label": "D",
+          "text": "If one wants to be successful, you must make unremitting efforts.",
+          "zh": "如果一个人想成功，你必须坚持不懈地努力。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂3"
+      ]
+    },
+    {
+      "id": "yt3-q4",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂3",
+      "setTitle": "Unit 1 Effective Sentences",
+      "number": 4,
+      "title": "雨课堂3.4",
+      "promptKind": "选项判断",
+      "question": "Which of the following is NOT FAULTY?",
+      "questionZh": "下列哪一项没有语病？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "To chew carefully and eating slowly are necessary for good digestion.",
+          "zh": "仔细咀嚼和慢慢吃对良好消化是必要的。"
+        },
+        {
+          "label": "B",
+          "text": "Sunrays filtered in wherever they could, driving out darkness and choking the shadows.",
+          "zh": "阳光尽可能地照射进来，驱散黑暗，压制阴影。"
+        },
+        {
+          "label": "C",
+          "text": "Listening to records and attendance at live concerts are both enjoyable for me.",
+          "zh": "听唱片和参加现场音乐会对我来说都很愉快。"
+        },
+        {
+          "label": "D",
+          "text": "Fred is energetic, capable, and a man you can rely on.",
+          "zh": "Fred 精力充沛、有能力，而且是一个可以依靠的人。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂3"
+      ]
+    },
+    {
+      "id": "yt3-q5",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂3",
+      "setTitle": "Unit 1 Effective Sentences",
+      "number": 5,
+      "title": "雨课堂3.5",
+      "promptKind": "选项判断",
+      "question": "Which of the following is a unified and coherent sentence?",
+      "questionZh": "下列哪一句是统一且连贯的句子？",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bernard Shaw was one of the best-known playwrights.",
+          "zh": "Bernard Shaw 是最著名的剧作家之一。"
+        },
+        {
+          "label": "B",
+          "text": "I read the novel on the train, which did not interest me at all.",
+          "zh": "我在火车上读了那本小说，它一点也没有引起我的兴趣。"
+        },
+        {
+          "label": "C",
+          "text": "We must all hang together, or we shall all hang respectively.",
+          "zh": "我们必须团结一致，否则就会各自被绞死。"
+        },
+        {
+          "label": "D",
+          "text": "Dickens's novels offer no solution to the social injustices he exposes in them. ---",
+          "zh": "Dickens 的小说没有为其中揭露的社会不公提供解决办法。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂3"
+      ]
+    },
+    {
+      "id": "yt4-q1",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂4",
+      "setTitle": "Effective Sentences Lecture 2",
+      "number": 1,
+      "title": "雨课堂4.1",
+      "promptKind": "选项判断",
+      "question": "“One reason why people are informed in this country is because of the fact that there are many newspapers which can easily be bought or subscribed to.” If this sentence is made more concise, which one may be the best among the four?",
+      "questionZh": "“这个国家人们消息灵通的一个原因是，事实上有许多报纸可以很容易买到或订阅。” 如果把这个句子改得更简洁，四个选项中哪一个最好？",
+      "context": null,
+      "answer": "D",
+      "options": [
+        {
+          "label": "A",
+          "text": "One reason why people are informed in this country is because there are many newspapers which can easily be bought or subscribed to.",
+          "zh": "这个国家人们消息灵通的一个原因是有许多报纸可以很容易买到或订阅。"
+        },
+        {
+          "label": "B",
+          "text": "People are informed in this country because of the fact that there are many newspapers which can easily be bought or subscribed to.",
+          "zh": "这个国家的人们消息灵通，是因为事实上有许多报纸可以很容易买到或订阅。"
+        },
+        {
+          "label": "C",
+          "text": "People are informed in this country because there are many newspapers which can easily be bought or subscribed to.",
+          "zh": "这个国家的人们消息灵通，因为有许多报纸可以很容易买到或订阅。"
+        },
+        {
+          "label": "D",
+          "text": "People are informed in this country because many newspapers can easily be bought or subscribed to.",
+          "zh": "这个国家的人们消息灵通，因为许多报纸可以很容易买到或订阅。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂4"
+      ]
+    },
+    {
+      "id": "yt4-q2",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂4",
+      "setTitle": "Effective Sentences Lecture 2",
+      "number": 2,
+      "title": "雨课堂4.2",
+      "promptKind": "选项判断",
+      "question": "“She was delighted when she heard this good news.” If this sentence is made more concise, which one may be the best among the four?",
+      "questionZh": "“她听到这个好消息时很高兴。” 如果把这个句子改得更简洁，四个选项中哪一个最好？",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "She was delighted when hearing this good news.",
+          "zh": "她听到这个好消息时很高兴。"
+        },
+        {
+          "label": "B",
+          "text": "She was delighted, hearing this good news.",
+          "zh": "听到这个好消息，她很高兴。"
+        },
+        {
+          "label": "C",
+          "text": "She was delighted at this good news.",
+          "zh": "她为这个好消息感到高兴。"
+        },
+        {
+          "label": "D",
+          "text": "On hearing this good news, she was delighted.",
+          "zh": "一听到这个好消息，她就很高兴。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂4"
+      ]
+    },
+    {
+      "id": "yt4-q3",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂4",
+      "setTitle": "Effective Sentences Lecture 2",
+      "number": 3,
+      "title": "雨课堂4.3",
+      "promptKind": "选项判断",
+      "question": "“There are many Web designers who are planning to attend the conference, which is scheduled for May 13-15.” If this sentence is made more concise, which one may be the best among the four?",
+      "questionZh": "“有许多网页设计师计划参加定于 5 月 13 日至 15 日举行的会议。” 如果把这个句子改得更简洁，四个选项中哪一个最好？",
+      "context": null,
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Many Web designers plan to attend the conference scheduled for May 13-15.",
+          "zh": "许多网页设计师计划参加定于 5 月 13 日至 15 日举行的会议。"
+        },
+        {
+          "label": "B",
+          "text": "There are many Web designers planning to attend the conference, which is scheduled for May 13-15.",
+          "zh": "有许多网页设计师计划参加这次会议，而会议定于 5 月 13 日至 15 日举行。"
+        },
+        {
+          "label": "C",
+          "text": "There are many Web designers planning to attend the conference scheduled for May 13-15.",
+          "zh": "有许多网页设计师计划参加定于 5 月 13 日至 15 日举行的会议。"
+        },
+        {
+          "label": "D",
+          "text": "Many Web designers who are planning to attend the conference scheduled for May 13-15.",
+          "zh": "许多计划参加定于 5 月 13 日至 15 日举行会议的网页设计师。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂4"
+      ]
+    },
+    {
+      "id": "yt4-q4",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂4",
+      "setTitle": "Effective Sentences Lecture 2",
+      "number": 4,
+      "title": "雨课堂4.4",
+      "promptKind": "选项判断",
+      "question": "Among the following sentences, which one is the most concise?",
+      "questionZh": "下列句子中，哪一句最简洁？",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "His name is called James Williams.",
+          "zh": "他的名字叫 James Williams。"
+        },
+        {
+          "label": "B",
+          "text": "In that country violent death has become a commonplace thing, a thing that occurs every day.",
+          "zh": "在那个国家，暴力死亡已经变成司空见惯的事情，一种每天都会发生的事情。"
+        },
+        {
+          "label": "C",
+          "text": "He was kind enough to let me share his umbrella.",
+          "zh": "他很友好，让我和他共用雨伞。"
+        },
+        {
+          "label": "D",
+          "text": "What I am trying to say is that in my opinion he has not done his work very well and it needs improving.",
+          "zh": "我想说的是，在我看来，他的工作做得不太好，还需要改进。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂4"
+      ]
+    },
+    {
+      "id": "yt4-q5",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂4",
+      "setTitle": "Effective Sentences Lecture 2",
+      "number": 5,
+      "title": "雨课堂4.5",
+      "promptKind": "选项判断",
+      "question": "Which of the following is an emphatic sentence in inverted word order?",
+      "questionZh": "下列哪一句是倒装语序的强调句？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Why on earth did you lie?",
+          "zh": "你到底为什么撒谎？"
+        },
+        {
+          "label": "B",
+          "text": "Starved and tired enough was the homeless child.",
+          "zh": "那个无家可归的孩子又饿又累。"
+        },
+        {
+          "label": "C",
+          "text": "During the last century, the attitude of Americans toward technology underwent a profound change.",
+          "zh": "在上个世纪，美国人对技术的态度发生了深刻变化。"
+        },
+        {
+          "label": "D",
+          "text": "Faith is a good guide, reason is a better guide, and truth is the best guide. ---",
+          "zh": "信仰是好的向导，理性是更好的向导，而真理是最好的向导。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂4"
+      ]
+    },
+    {
+      "id": "yt5-q1",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂5",
+      "setTitle": "Unit 2 Paragraphs Lecture 1",
+      "number": 1,
+      "title": "雨课堂5.1",
+      "promptKind": "选项判断",
+      "question": "In the topic sentence “Antique dealers sometimes use deceptive sales tactics.”, the controlling idea is:",
+      "questionZh": "在主题句 “Antique dealers sometimes use deceptive sales tactics.” 中，控制性思想是：",
+      "context": null,
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "deceptive sales tactics",
+          "zh": "欺骗性的销售策略"
+        },
+        {
+          "label": "B",
+          "text": "antique dealers",
+          "zh": "古董商"
+        },
+        {
+          "label": "C",
+          "text": "tactics",
+          "zh": "策略"
+        },
+        {
+          "label": "D",
+          "text": "deceptive",
+          "zh": "欺骗性的"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂5"
+      ]
+    },
+    {
+      "id": "yt5-q2",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂5",
+      "setTitle": "Unit 2 Paragraphs Lecture 1",
+      "number": 2,
+      "title": "雨课堂5.2",
+      "promptKind": "选项判断",
+      "question": "Which of the following can serve as a topic sentence of a paragraph?",
+      "questionZh": "下列哪一项可以作为段落主题句？",
+      "context": null,
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Some of the laws which have been passed in Massachusetts seem ridiculously funny in today's world.",
+          "zh": "马萨诸塞州通过的一些法律在今天看来荒唐可笑。"
+        },
+        {
+          "label": "B",
+          "text": "According to an old law of Truro, Massachusetts, a young man could not get married until he had killed either six blackbirds or three crows.",
+          "zh": "根据马萨诸塞州 Truro 的一项旧法律，年轻男子必须杀死六只黑鸟或三只乌鸦后才能结婚。"
+        },
+        {
+          "label": "C",
+          "text": "It is illegal to eat peanuts in church in Massachusetts.",
+          "zh": "在马萨诸塞州，在教堂里吃花生是违法的。"
+        },
+        {
+          "label": "D",
+          "text": "To take a bath in Boston, you must have a doctor's prescription.",
+          "zh": "在波士顿洗澡必须有医生处方。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂5"
+      ]
+    },
+    {
+      "id": "yt5-q3",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂5",
+      "setTitle": "Unit 2 Paragraphs Lecture 1",
+      "number": 3,
+      "title": "雨课堂5.3",
+      "promptKind": "选项判断",
+      "question": "Which of the following does not develop the controlling idea in the topic sentence, “I have been misinformed by incompetent teachers.”",
+      "questionZh": "下列哪一项没有展开主题句 “我曾被不称职的老师误导” 中的控制性思想？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "My English teacher told me that a sentence must never end with a preposition.",
+          "zh": "我的英语老师告诉我，句子绝不能以介词结尾。"
+        },
+        {
+          "label": "B",
+          "text": "My history teacher told me that George Washington was an important figure in the early history of the United States.",
+          "zh": "我的历史老师告诉我，George Washington 是美国早期历史中的重要人物。"
+        },
+        {
+          "label": "C",
+          "text": "My social studies teacher insist that Egypt is a part of Europe.",
+          "zh": "我的社会研究老师坚持说埃及是欧洲的一部分。"
+        },
+        {
+          "label": "D",
+          "text": "My high school biology teacher explained that the difference in the number of ribs distinguishes a female from a male skeleton.",
+          "zh": "我的高中生物老师解释说，肋骨数量的差异可以区分女性骨骼和男性骨骼。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂5"
+      ]
+    },
+    {
+      "id": "yt5-q4",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂5",
+      "setTitle": "Unit 2 Paragraphs Lecture 1",
+      "number": 4,
+      "title": "雨课堂5.4",
+      "promptKind": "选项判断",
+      "question": "Which of the following can be the topic sentence for the paragraph given below?",
+      "questionZh": "下列哪一项可以作为下面段落的主题句？",
+      "context": {
+        "en": "Firstborn children and only children tend to be leaders. Researchers have found that they dominate their younger brothers and sisters, have more self-esteem, and appear to be more adult-oriented. Twenty-one of the original twenty-three astronauts were either firstborn or only children. Children who are born in the middle tend to be passive. They are the average students and are often dominated by both older and younger siblings. Lastborn children have the highest social intelligence quotients. They are more verbal and tend to be more popular with their peers than their older brothers and sisters.",
+        "zh": "长子女和独生子女往往倾向于成为领导者。研究人员发现，他们会支配弟弟妹妹，拥有更高的自尊，并且显得更以成年人为导向。最初的 23 名宇航员中，有 21 名要么是长子女，要么是独生子女。出生在中间的孩子往往比较被动。他们通常是普通学生，并且常常受到哥哥姐姐和弟弟妹妹的支配。最小的孩子拥有最高的社会智力商数。他们更善于表达，并且往往比哥哥姐姐更受同龄人欢迎。"
+      },
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "Firstborn children tend to be leaders.",
+          "zh": "长子女往往倾向于成为领导者。"
+        },
+        {
+          "label": "B",
+          "text": "Different children have different characters.",
+          "zh": "不同的孩子有不同的性格。"
+        },
+        {
+          "label": "C",
+          "text": "Children with different birth order have different characters.",
+          "zh": "出生顺序不同的孩子具有不同的性格。"
+        },
+        {
+          "label": "D",
+          "text": "Lastborn children tend to be more intelligent than firstborn children.",
+          "zh": "最小的孩子往往比长子女更聪明。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂5"
+      ]
+    },
+    {
+      "id": "yt5-q5",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂5",
+      "setTitle": "Unit 2 Paragraphs Lecture 1",
+      "number": 5,
+      "title": "雨课堂5.5",
+      "promptKind": "选项判断",
+      "question": "Which of the following can be the concluding sentence for the paragraph given below?",
+      "questionZh": "下列哪一项可以作为下面段落的结尾句？",
+      "context": {
+        "en": "There are three reasons why Canada is one of the best countries in the world. First, Canada has an excellent health care system. All Canadians have access to medical services at a reasonable price. Second, Canada has a high standard of education. Students are taught by well-trained teachers and are encouraged to continue studying at university. Finally, Canada's cities are clean and efficiently managed. Canadian cities have many parks and lots of space for people to live. As a result, Canada is a desirable place to live.",
+        "zh": "加拿大是世界上最好的国家之一有三个原因。首先，加拿大拥有优秀的医疗保健系统。所有加拿大人都能以合理价格获得医疗服务。其次，加拿大教育水平很高。学生由训练有素的教师授课，并被鼓励继续上大学学习。最后，加拿大的城市干净且管理高效。加拿大城市有许多公园，也有大量适合人们生活的空间。因此，加拿大是一个理想的居住地。"
+      },
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "Canada is a desirable place to live.",
+          "zh": "加拿大是一个理想的居住地。"
+        },
+        {
+          "label": "B",
+          "text": "There are three reasons why Canada is one of the best countries in the world.",
+          "zh": "加拿大是世界上最好的国家之一有三个原因。"
+        },
+        {
+          "label": "C",
+          "text": "Canada has a high standard of education.",
+          "zh": "加拿大教育水平很高。"
+        },
+        {
+          "label": "D",
+          "text": "All Canadians have access to medical services at a reasonable price. ---",
+          "zh": "所有加拿大人都能以合理价格获得医疗服务。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂5"
+      ]
+    },
+    {
+      "id": "yt6-q1",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂6",
+      "setTitle": "Unit 3 Style",
+      "number": 1,
+      "title": "雨课堂6.1",
+      "promptKind": "选项判断",
+      "question": "Which expression does not contribute to the informal style of the following sentence?",
+      "questionZh": "下列哪个表达没有使下面句子呈现非正式风格？",
+      "context": null,
+      "answer": "A",
+      "options": [
+        {
+          "label": "A",
+          "text": "people",
+          "zh": "人们"
+        },
+        {
+          "label": "B",
+          "text": "unfortunately",
+          "zh": "不幸的是"
+        },
+        {
+          "label": "C",
+          "text": "a lot of",
+          "zh": "许多"
+        },
+        {
+          "label": "D",
+          "text": "don't",
+          "zh": "没有；不"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂6"
+      ]
+    },
+    {
+      "id": "yt6-q2",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂6",
+      "setTitle": "Unit 3 Style",
+      "number": 2,
+      "title": "雨课堂6.2",
+      "promptKind": "选项判断",
+      "question": "Which of the following is stated objectively?",
+      "questionZh": "下列哪一项表述是客观的？",
+      "context": null,
+      "answer": "C",
+      "options": [
+        {
+          "label": "A",
+          "text": "You can apply the same theory of learning to small children.",
+          "zh": "你可以把同样的学习理论应用到小孩子身上。"
+        },
+        {
+          "label": "B",
+          "text": "In this essay I will discuss the main differences between the English and Scottish legal systems.",
+          "zh": "在这篇文章中，我将讨论英格兰和苏格兰法律体系之间的主要差异。"
+        },
+        {
+          "label": "C",
+          "text": "An examination of the statistics reveals that poverty and ill health have a positive relationship.",
+          "zh": "对统计数据的考察表明，贫困与健康状况不佳之间存在正相关关系。"
+        },
+        {
+          "label": "D",
+          "text": "We treat sick patients with external beam treatment.",
+          "zh": "我们用外照射治疗来治疗病人。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂6"
+      ]
+    },
+    {
+      "id": "yt6-q3",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂6",
+      "setTitle": "Unit 3 Style",
+      "number": 3,
+      "title": "雨课堂6.3",
+      "promptKind": "选项判断",
+      "question": "Which of the following is written in a non-academic style?",
+      "questionZh": "下列哪一项使用了非学术风格？",
+      "context": null,
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Another aspect to consider is the possibility of crime becoming worse.",
+          "zh": "另一个需要考虑的方面是犯罪恶化的可能性。"
+        },
+        {
+          "label": "B",
+          "text": "Another thing to think about is the chance of crime getting worse.",
+          "zh": "另一个要想的事情是犯罪变得更糟的可能。"
+        },
+        {
+          "label": "C",
+          "text": "Another aspect of consideration is the possibility of crime becoming worse.",
+          "zh": "另一个考虑方面是犯罪恶化的可能性。"
+        },
+        {
+          "label": "D",
+          "text": "One area of consideration is the probability of terrorism escalating.",
+          "zh": "一个需要考虑的领域是恐怖主义升级的可能性。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂6"
+      ]
+    },
+    {
+      "id": "yt6-q4",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂6",
+      "setTitle": "Unit 3 Style",
+      "number": 4,
+      "title": "雨课堂6.4",
+      "promptKind": "选项判断",
+      "question": "Which of the following is appropriate for an academic paper?",
+      "questionZh": "下列哪一项适合用于学术论文？",
+      "context": null,
+      "answer": "D",
+      "options": [
+        {
+          "label": "A",
+          "text": "It was extremely disappointing that the bureaucracy chose to target students who did not understand the rules of plagiarism.",
+          "zh": "令人极其失望的是，官僚机构选择针对那些不理解剽窃规则的学生。"
+        },
+        {
+          "label": "B",
+          "text": "It was a fantastic strategy as most of their students did not have to face being accused of plagiarism.",
+          "zh": "这是一个很棒的策略，因为他们的大多数学生不必面对被指控剽窃。"
+        },
+        {
+          "label": "C",
+          "text": "Therefore, I think that all university students should be trained in how to avoid plagiarism.",
+          "zh": "因此，我认为所有大学生都应该接受如何避免剽窃的培训。"
+        },
+        {
+          "label": "D",
+          "text": "Therefore, training in plagiarism avoidance is recommended for university students.",
+          "zh": "因此，建议大学生接受避免剽窃方面的培训。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂6"
+      ]
+    },
+    {
+      "id": "yt6-q5",
+      "type": "quiz",
+      "source": "雨课堂",
+      "section": "雨课堂6",
+      "setTitle": "Unit 3 Style",
+      "number": 5,
+      "title": "雨课堂6.5",
+      "promptKind": "选项判断",
+      "question": "Select the correct comment about the writing style of the following paragraph.",
+      "questionZh": "选择对下面段落写作风格的正确评价。",
+      "context": {
+        "en": "I think that essay writing is an important skill for all of us students. Don't you see how many marks are given for this? Lots of students agree that they are marooned if they can't write a decent essay. In my opinion (as a struggling student), we should have lessons in essay writing from day one!!!",
+        "zh": "我认为论文写作是我们所有学生的一项重要技能。难道你没看到这项内容占多少分吗？很多学生都同意，如果写不出一篇像样的论文，他们就会陷入困境。在我看来（作为一名苦苦挣扎的学生），我们从第一天起就应该上论文写作课！！！"
+      },
+      "answer": "B",
+      "options": [
+        {
+          "label": "A",
+          "text": "Formal, straightforward, clearly written, correct academic style.",
+          "zh": "正式、直接、写得清楚，属于正确的学术风格。"
+        },
+        {
+          "label": "B",
+          "text": "Informal, like spoken (colloquial) language, incorrect academic style.",
+          "zh": "非正式，像口语化语言，不符合学术风格。"
+        },
+        {
+          "label": "C",
+          "text": "Too formal, uses too many words, incorrect academic style.",
+          "zh": "过于正式，用词过多，不符合学术风格。"
+        }
+      ],
+      "tags": [
+        "雨课堂",
+        "选项判断",
+        "雨课堂6"
+      ]
+    }
+  ]
+}
